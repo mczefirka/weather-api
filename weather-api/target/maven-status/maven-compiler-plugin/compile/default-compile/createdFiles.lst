@@ -1,0 +1,6 @@
+com\zephyr\weatherapi\service\WeatherNotFoundAdvice.class
+com\zephyr\weatherapi\controller\MainController.class
+com\zephyr\weatherapi\model\Weather.class
+com\zephyr\weatherapi\repository\WeatherRepository.class
+com\zephyr\weatherapi\service\WeatherNotFoundException.class
+com\zephyr\weatherapi\WeatherApiApplication.class
